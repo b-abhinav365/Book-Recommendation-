@@ -3,7 +3,7 @@
 ##  Overview
 This project is a **Hybrid Book Recommendation System** that predicts and suggests books based on a combination of **content-based filtering** and **collaborative filtering**. It enhances the user experience by providing personalized book recommendations.
 
-## 🎯 Objective
+##  Objective
 The goal of this project is to create an **intelligent book recommendation system** that predicts books a user might like based on:
 - **Book content (title, genre, author, description)**
 - **User interactions (ratings, shelvings, past preferences)**
